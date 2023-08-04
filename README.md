@@ -79,11 +79,7 @@ We welcome contributions from the community! If you would like to contribute to 
 4. Push your changes to your forked repository
 5. Create a pull request to merge your changes into the main repository
 
-## Author
 
-[Ganesh K Nanhe](https://github.com/gknanhe/hospital-api)
-
-## License
 
 This project is licensed under the ISC License.
 
